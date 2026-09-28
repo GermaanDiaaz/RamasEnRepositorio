@@ -1,2 +1,3 @@
-hola = 2
-adios = 1
+dos= 2
+# Las variables no tienen un buen nombre
+uno = 1
